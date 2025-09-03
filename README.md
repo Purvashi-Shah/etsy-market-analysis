@@ -15,7 +15,7 @@ This project analyzes the Etsy digital product marketplace to identify the most 
 - **Data Collection:** Web Scraping, Google Trends API
 - **Data Cleaning & Processing:** Microsoft Excel, Power Query
 - **Data Analysis & Visualization:** Power BI (DAX, Data Modeling)
-- **Reporting:** PowerPoint / Canva for final presentation
+- **Reporting:** Canva for final presentation
 
 
 ## 🔍 Methodology & Analysis
